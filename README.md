@@ -44,3 +44,21 @@ I am an enthusiastic and self-taught Full-Stack Software Engineer from India, sp
   
 - 💼 Looking for freelance opportunities? Feel free to reach out to me at [email](mailto:joelmulammoottil994@gmail.com) :)
 - 💬 Have any questions? I'm here to assist you and provide helpful insights. Feel free to ask me anything!
+
+```text
+
+💬 Programming Languages: 
+TypeScript               23 hrs 58 mins      ████████████████░░░░░░░░░   65.44% 
+JSON                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+JavaScript               2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+Java                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+YAML                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+
+🔥 Editors: 
+VS Code                  36 hrs 17 mins      ████████████████████████░   99.06% 
+Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+
+💻 Operating System: 
+Windows WSL              36 hrs 37 mins      █████████████████████████   100.0%
+
+```
