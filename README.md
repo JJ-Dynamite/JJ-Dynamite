@@ -1,8 +1,14 @@
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joel+J+Mathew....;Nice+to+meet+you!&center=true&size=25">
-  </a>
 </h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+
+
 
 <!--
 **joelmulammoottil994/joelmulammoottil994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
