@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joel+J+Mathew....;Nice+to+meet+you!&center=true&size=25">
 </h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
+    <img alt="joel" src="./dino.gif" />
   </picture>
 
 
