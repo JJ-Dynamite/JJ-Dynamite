@@ -1,13 +1,16 @@
 
 <h1 align="center">
+<a href='https://bit.ly/44BnGPo'>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joel+J+Mathew....;Nice+to+meet+you!&center=true&size=25">
+</a>
 </h1>
+<a href="https://bit.ly/44BnGPo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
-    <img alt="joel" src="./dino.gif" />
+    <img alt="[joel](https://bit.ly/44BnGPo)" src="./dino.gif" />
   </picture>
-
+</a>
 
 
 <!--
