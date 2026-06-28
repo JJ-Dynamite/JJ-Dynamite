@@ -1,17 +1,23 @@
 
-<h1 align="center">
-<a href='https://bit.ly/44BnGPo'>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=DYNAMIX+MATRIX+v3.0;JOEL+J+MATHEW...;FULL-STACK+%7C+AI+%7C+SYSTEMS+ENGINEER&center=true&size=25&color=00FF41&duration=3000&vCenter=true">
-</a>
-</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=JJ-DYNAMITE&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=DYNAMIX+MATRIX+v3.0+%7C+FULL-STACK+%7C+AI+%7C+SYSTEMS&descSize=18&descAlignY=55&animation=fadeIn&repo=JJ-Dynamite/JJ-Dynamite)
+
+</div>
 
 <a href="https://bit.ly/44BnGPo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
-    <img alt="[joel](https://bit.ly/44BnGPo)" src="./dino.gif" width="150" />
+    <img alt="[joel](https://bit.ly/44BnGPo)" src="./dino.gif" width="120" />
   </picture>
 </a>
+
+<div align="center">
+
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=FULL-STACK+ENGINEER;AI+SYSTEMS+ARCHITECT;OPEN+SOURCE+CONTRIBUTOR;BUILDING+FAANG-GRADE+SYSTEMS&theme=matrix&layout=terminal&color=00FF41&background=0D1117&size=18&width=600&height=100&duration=3000&pause=1000&center=true&repeat=true)](https://github.com/JJ-Dynamite)
+
+</div>
 
 <br/>
 
@@ -681,25 +687,52 @@
 
 ---
 
-## 📈 GITHUB ANALYTICS
+## 📈 GITHUB ANALYTICS (2026 Tools)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
+### 📊 Stats Dashboard (samdev-pulse)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJ-Dynamite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJ-Dynamite&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![Stats Dashboard](https://samdev-pulse.vercel.app/api/dashboard?username=JJ-Dynamite&theme=dark&hide_trophies=false)
 
 </div>
 
----
+<table>
+<tr>
+<td align="center" width="33%">
 
-## 🎖️ DYNAMIX ACHIEVEMENTS
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
+
+</td>
+<td align="center" width="33%">
+
+### 🔥 Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JJ-Dynamite&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</td>
+<td align="center" width="33%">
+
+### 🏆 Trophy Cabinet
+![Trophies](https://github-profile-trophy.vercel.app/?username=JJ-Dynamite&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JJ-Dynamite&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJ-Dynamite&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY)
+
+### 🏆 MZR Icons Trophy System
+![Trophy](https://icon.mzrdev.com/trophy?username=JJ-Dynamite&theme=radical)
+
+### 🔥 Contribution Streak (MZR)
+![Streak](https://icon.mzrdev.com/stats?username=JJ-Dynamite&theme=dark&accent=00FF41)
+
+### 🐍 Contribution Snake Animation
+![Snake Animation](https://raw.githubusercontent.com/JJ-Dynamite/JJ-Dynamite/output/github-snake.svg)
 
 </div>
 
@@ -725,7 +758,94 @@
 
 ---
 
-## 🔥 DYNAMIX MOTTO
+## 🌟 FEATURED PROJECTS
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 Built With
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TOOLS USED TO BUILD THIS PROFILE
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Visual & Animation Tools
+| Tool | Description |
+|------|-------------|
+| [Capsule Render](https://github.com/kyechan99/capsule-render) | Animated header banner |
+| [ScribeSVG](https://github.com/DhanushNehru/ScribeSVG) | Premium typing animation with Matrix theme |
+| [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Classic typing SVG (8.6K stars) |
+| [shields.io](https://shields.io) | 1000+ dynamic badges |
+| [skill-icons](https://github.com/AliasIO/skill-icons) | Beautiful skill icons |
+
+</td>
+<td align="center" width="50%">
+
+### 📊 Stats & Analytics Tools
+| Tool | Description |
+|------|-------------|
+| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Stats cards (79K stars) |
+| [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Streak tracking (6.7K stars) |
+| [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) | Achievement trophies |
+| [samdev-pulse](https://github.com/SamXop123/samdev-pulse) | Comprehensive SVG dashboard |
+| [mzr-icons](https://github.com/MZRCode/mzr-icons) | 400+ icons + trophy system |
+| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution activity chart |
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI-Powered Tools (2026)
+| Tool | Description |
+|------|-------------|
+| [profile-readme-ai](https://github.com/sena-labs/profile-readme-ai) | AI-powered profile generator with GPT-4o-mini |
+| [GitHub Insights](https://github.com/urmzd/github-insights) | AI-powered metrics & project classification |
+| [GodProfile](https://github.com/Luc0-0/GodProfile) | MCP Server with 16 AI tools |
+| [GitSkins](https://github.com/asamassekou10/GitSkins) | Gemini-powered profile tools |
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Profile Generators (2026)
+| Tool | Description |
+|------|-------------|
+| [git-creator](https://github.com/dhairyagothi/git-creator) | 30+ premium templates |
+| [ReadmeForge](https://github.com/lebedevnet/ReadmeForge) | 60+ tech, 18 themes |
+| [easy-github-profile](https://github.com/BerkaySevinc/easy-github-profile) | Zero-effort setup |
+| [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | 24K stars, most popular |
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
