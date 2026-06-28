@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=JOEL+J+MATHEW&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=FULL-STACK+ENGINEER+%7C+CTO+%7C+FOUNDER&descSize=18&descAlignY=55&animation=fadeIn&repo=JJ-Dynamite/JJ-Dynamite)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=JOEL+J+MATHEW&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=SELF-TAUGHT+COMPUTER+SCIENTIST+%7C+CTO+%7C+FOUNDER&descSize=18&descAlignY=55&animation=fadeIn&repo=JJ-Dynamite/JJ-Dynamite)
 
 </div>
 
@@ -73,6 +73,20 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 📖 THE STORY
+
+> I'm Joel J Mathew, a self-taught computer scientist from India who has been coding since I was 12. I've spent the last 15 years building production-grade systems, shipping 257+ projects, and creating startup accelerators that have helped hundreds of founders launch their dreams.
+>
+> I believe in building fast, shipping faster, and scaling everything. My journey has been one of relentless curiosity, late-night debugging sessions, and an unshakeable belief that technology can solve humanity's biggest problems.
+>
+> I'm currently the Founder & CTO of **Val-X**, where I'm building the next generation of startup accelerators powered by AI. I'm also an author, music artist, and open-source contributor who believes in giving back to the community that has given me so much.
+>
+> When I'm not coding, you'll find me writing about psychology and influence, producing music, or exploring the intersection of technology and human behavior.
+
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=30&section=footer)
 
 ---
 
@@ -203,7 +217,7 @@
 <td align="center"><img src="https://img.shields.io/badge/Ktor-0095D9?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Micronaut-29B5E2?style=for-the-badge&logo=micronaut&logoColor=white" alt="Micronaut"/></td>
-<td id="align="center"><img src="https://img.shields.io/badge/Helix-5B8DB8?style=for-the-badge&logo=&logoColor=white" alt="Helix"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Helix-5B8DB8?style=for-the-badge&logo=&logoColor=white" alt="Helix"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white" alt="Warp"/></td>
 </tr>
 </table>
@@ -277,7 +291,6 @@
 <td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></td>
 <td align="center"><img src="https://img.shields.io/badge/New+Relic-1CE782?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/></td>
@@ -373,7 +386,6 @@
 <td align="center"><img src="https://img.shields.io/badge/Nodemon-76D364?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/></td>
 <td align="center"><img src="https://img.shields.io/badge/PM2-2C3E50?style=for-the-badge&logo=node.js&logoColor=white" alt="PM2"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Hoppscotch-000000?style=for-the-badge&logo=&logoColor=white" alt="Hoppscotch"/></td>
 <td align="center"><img src="https://img.shields.io/badge/HTTPie-000000?style=for-the-badge&logo=&logoColor=white" alt="HTTPie"/></td>
 </tr>
@@ -480,7 +492,6 @@
 <td align="center"><img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Tempo-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Mimir-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Mimir"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></td>
 <td align="center"><img src="https://img.shields.io/badge/StatsD-000000?style=for-the-badge&logo=&logoColor=white" alt="StatsD"/></td>
 </tr>
 </table>
@@ -691,9 +702,9 @@
 
 <div align="center">
 
-### 📊 Stats Dashboard (samdev-pulse)
+### 📊 Stats Dashboard
 
-![Stats Dashboard](https://samdev-pulse.vercel.app/api/dashboard?username=JJ-Dynamite&theme=dark&hide_trophies=false)
+![Stats Dashboard](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true)
 
 </div>
 
@@ -714,7 +725,7 @@
 <td align="center" width="33%">
 
 ### 🏆 Trophy Cabinet
-![Trophies](https://github-profile-trophy.vercel.app/?username=JJ-Dynamite&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JJ-Dynamite&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&no-lang=true&margin-w=5)
 
 </td>
 </tr>
@@ -725,14 +736,14 @@
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJ-Dynamite&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY)
 
-### 🏆 MZR Icons Trophy System
-![Trophy](https://icon.mzrdev.com/trophy?username=JJ-Dynamite&theme=radical)
+### 🏆 Achievement System
+![Achievements](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&hide_title=false&hide_rank=false&custom_title=Achievement+Dashboard)
 
-### 🔥 Contribution Streak (MZR)
-![Streak](https://icon.mzrdev.com/stats?username=JJ-Dynamite&theme=dark&accent=00FF41)
+### 🔥 Contribution Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJ-Dynamite&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 ### 🐍 Contribution Snake Animation
-![Snake Animation](https://raw.githubusercontent.com/JJ-Dynamite/JJ-Dynamite/output/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/JJ-Dynamite/JJ-Dynamite/output/github-snake-dark.svg)
 
 </div>
 
@@ -740,21 +751,156 @@
 
 ## 💡 WHAT I BRING TO THE TABLE
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🎯 PROBLEM SOLVING         │  🤖 AI-FIRST DEVELOPMENT      │
-│  • Systems Design           │  • LLM Integration            │
-│  • Algorithm Optimization   │  • RAG Architecture           │
-│  • Performance Tuning       │  • Agent Development          │
-│  • Debugging at Scale       │  • Prompt Engineering          │
-├─────────────────────────────────────────────────────────────┤
-│  🏗️ ARCHITECTURE            │  🚀 SHIPMENT                  │
-│  • Microservices            │  • CI/CD Pipelines            │
-│  • Event-Driven Systems     │  • Docker/K8s                 │
-│  • Database Design          │  • Monitoring & Observability │
-│  • API Design               │  • Production-Grade Code      │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎯 PROBLEM SOLVING
+![Systems Design](https://img.shields.io/badge/Systems_Design-00FF41?style=flat-square&labelColor=0D1117)
+![Algorithm Optimization](https://img.shields.io/badge/Algorithm_Optimization-00FF41?style=flat-square&labelColor=0D1117)
+![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-00FF41?style=flat-square&labelColor=0D1117)
+![Debugging at Scale](https://img.shields.io/badge/Debugging_at_Scale-00FF41?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI-FIRST DEVELOPMENT
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat-square&labelColor=0D1117)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-FF6F00?style=flat-square&labelColor=0D1117)
+![Agent Development](https://img.shields.io/badge/Agent_Development-FF6F00?style=flat-square&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️ ARCHITECTURE
+![Microservices](https://img.shields.io/badge/Microservices-00E5FF?style=flat-square&labelColor=0D1117)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-00E5FF?style=flat-square&labelColor=0D1117)
+![Database Design](https://img.shields.io/badge/Database_Design-00E5FF?style=flat-square&labelColor=0D1117)
+![API Design](https://img.shields.io/badge/API_Design-00E5FF?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 SHIPMENT
+![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-7C4DFF?style=flat-square&labelColor=0D1117)
+![Docker/K8s](https://img.shields.io/badge/Docker/K8s-7C4DFF?style=flat-square&labelColor=0D1117)
+![Monitoring](https://img.shields.io/badge/Monitoring_%26_Observability-7C4DFF?style=flat-square&labelColor=0D1117)
+![Production-Grade](https://img.shields.io/badge/Production--Grade_Code-7C4DFF?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 AUTHOR
+
+<div align="center">
+
+![Book](https://img.shields.io/badge/The_Psychology-FF6F00?style=for-the-badge&labelColor=0D1117)
+![Amazon](https://img.shields.io/badge/Available_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0D1117)
+
+</div>
+
+> **The Psychology: The Hidden Machinery of Seduction, Manipulation, and Influence**
+>
+> A deep dive into the psychological mechanisms that drive human behavior. Drawing from neuroscience, evolutionary psychology, and real-world case studies, this book explores how we can understand and influence the people around us.
+
+<div align="center">
+
+[![Buy on Amazon](https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/your-book-isbn)
+
+</div>
+
+---
+
+## 🎵 MUSIC ARTIST
+
+<div align="center">
+
+![Artist](https://img.shields.io/badge/JOEL+J+MATHEW-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/your-spotify-id)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FC3C44?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/artist/your-apple-music-id)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/channel/your-youtube-music-id)
+[![Amazon Music](https://img.shields.io/badge/Amazon_Music-00A8E1?style=for-the-badge&logo=amazonmusic&logoColor=white)](https://music.amazon.com/artist/your-amazon-music-id)
+[![iTunes](https://img.shields.io/badge/iTunes-FC3C44?style=for-the-badge&logo=itunes&logoColor=white)](https://itunes.apple.com/artist/your-itunes-id)
+[![Pandora](https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=white)](https://pandora.com/artist/your-pandora-id)
+[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo= tidal&logoColor=white)](https://tidal.com/browse/artist/your-tidal-id)
+[![Deezer](https://img.shields.io/badge/Deezer-A237F4?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/artist/your-deezer-id)
+
+</div>
+
+---
+
+## 🚀 VENTURES
+
+<div align="center">
+
+![Val-X](https://img.shields.io/badge/Val_X-00FF41?style=for-the-badge&labelColor=0D1117)
+![Startup Accelerator](https://img.shields.io/badge/Startup_Accelerator-FF6F00?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💼 Bonder Connect
+![Bonder Connect](https://img.shields.io/badge/Platform-00FF41?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 Seductor
+![Seductor](https://img.shields.io/badge/Brand-FF6F00?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🏥 ValCure/NeoMediX
+![ValCure](https://img.shields.io/badge/Healthcare-00E5FF?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 💕 DateClub
+![DateClub](https://img.shields.io/badge/Dating-FF4081?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 🏠 UStay
+![UStay](https://img.shields.io/badge/Hospitality-7C4DFF?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 💳 ValenPay
+![ValenPay](https://img.shields.io/badge/Fintech-00E5FF?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🎬 Val-X Originals
+![Val-X Originals](https://img.shields.io/badge/Media-FF6F00?style=flat-square&labelColor=0D1117)
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Stealth Startup
+![Stealth](https://img.shields.io/badge/Coming_Soon-00FF41?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -791,90 +937,19 @@
 
 ---
 
-## 🛠️ TOOLS USED TO BUILD THIS PROFILE
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎨 Visual & Animation Tools
-| Tool | Description |
-|------|-------------|
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | Animated header banner |
-| [ScribeSVG](https://github.com/DhanushNehru/ScribeSVG) | Premium typing animation with Matrix theme |
-| [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Classic typing SVG (8.6K stars) |
-| [shields.io](https://shields.io) | 1000+ dynamic badges |
-| [skill-icons](https://github.com/AliasIO/skill-icons) | Beautiful skill icons |
-
-</td>
-<td align="center" width="50%">
-
-### 📊 Stats & Analytics Tools
-| Tool | Description |
-|------|-------------|
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Stats cards (79K stars) |
-| [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Streak tracking (6.7K stars) |
-| [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) | Achievement trophies |
-| [samdev-pulse](https://github.com/SamXop123/samdev-pulse) | Comprehensive SVG dashboard |
-| [mzr-icons](https://github.com/MZRCode/mzr-icons) | 400+ icons + trophy system |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution activity chart |
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 AI-Powered Tools (2026)
-| Tool | Description |
-|------|-------------|
-| [profile-readme-ai](https://github.com/sena-labs/profile-readme-ai) | AI-powered profile generator with GPT-4o-mini |
-| [GitHub Insights](https://github.com/urmzd/github-insights) | AI-powered metrics & project classification |
-| [GodProfile](https://github.com/Luc0-0/GodProfile) | MCP Server with 16 AI tools |
-| [GitSkins](https://github.com/asamassekou10/GitSkins) | Gemini-powered profile tools |
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Profile Generators (2026)
-| Tool | Description |
-|------|-------------|
-| [git-creator](https://github.com/dhairyagothi/git-creator) | 30+ premium templates |
-| [ReadmeForge](https://github.com/lebedevnet/ReadmeForge) | 60+ tech, 18 themes |
-| [easy-github-profile](https://github.com/BerkaySevinc/easy-github-profile) | Zero-effort setup |
-| [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | 24K stars, most popular |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![Build Fast](https://img.shields.io/badge/BUILD_FAST-FF6F00?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-![Ship Faster](https://img.shields.io/badge/SHIP_FASTER-FF4081?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-![Scale Everything](https://img.shields.io/badge/SCALE_EVERYTHING-00E5FF?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-
-![AI-Powered](https://img.shields.io/badge/AI--POWERED-7C4DFF?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-![Production-Grade](https://img.shields.io/badge/PRODUCTION--GRADE-00E676?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-![Open Source](https://img.shields.io/badge/OPEN--SOURCE-00FF41?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
-
-<br/>
-
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=flat-square&labelColor=0D1117)
-![Nodes](https://img.shields.io/badge/NODES-95%2B-00FF41?style=flat-square&labelColor=0D1117)
-![Uptime](https://img.shields.io/badge/UPTIME-99.99%25-00FF41?style=flat-square&labelColor=0D1117)
-
-</div>
-
----
-
 ## 📬 CONNECT WITH ME
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-j-mathew-71393a210/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MalayalamMtn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jo_mulammoodan_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmulammoottil994@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/joeljmathew_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeljmathew_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joeljmathewOffical)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@joeljmathew_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JoelJMathewOfficial)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/your-spotify-id)
+[![Website](https://img.shields.io/badge/Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joeljmathew.surge.sh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljmathew@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJ-Dynamite)
 
 </div>
@@ -886,7 +961,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JJ-Dynamite&color=00FF41&label=PROFILE+VIEWS&style=plastic)
 
 ```
-⚡ JOEL J MATHEW | FULL-STACK ENGINEER | CTO | FOUNDER ⚡
+⚡ JOEL J MATHEW | SELF-TAUGHT COMPUTER SCIENTIST | CTO | FOUNDER ⚡
 ```
 
 </div>
