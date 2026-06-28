@@ -29,12 +29,10 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  DYNAMIX MATRIX v3.0 | FULL-STACK x AI x SYSTEMS          ║
-║  STATUS: OPERATIONAL | UPTIME: 99.99% | NODES: 95+ REPOS  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Dynamix Matrix Status](https://img.shields.io/badge/DYNAMIX_MATRIX_v3.0-OPERATIONAL-00FF41?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117)
+![Uptime](https://img.shields.io/badge/UPTIME-99.99%25-00FF41?style=for-the-badge&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/NODES-95%2B-00FF41?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -602,25 +600,84 @@
 
 ## 🏗️ ARCHITECTURE OVERVIEW
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    DYNAMIX ARCHITECTURE                      │
-├─────────────────────────────────────────────────────────────┤
-│  FRONTEND        │  BACKEND         │  AI/ML              │
-│  ─────────────   │  ─────────────   │  ─────────────      │
-│  Next.js 14      │  Rust (Axum)     │  OpenAI API         │
-│  TypeScript      │  Tokio Runtime   │  Claude API         │
-│  Tailwind CSS    │  SQLx/Postgres   │  RAG Pipelines      │
-│  React 18        │  JWT Auth        │  Vector Stores      │
-│  shadcn/ui       │  Redis Cache     │  Agent Frameworks   │
-├─────────────────────────────────────────────────────────────┤
-│  INFRA           │  DEVOPS          │  MONITORING         │
-│  ─────────────   │  ─────────────   │  ─────────────      │
-│  Docker          │  GitHub Actions  │  Grafana            │
-│  Kubernetes      │  Makefile        │  Prometheus         │
-│  AWS/Azure       │  CI/CD           │  Structured Logs    │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+![Dynamix Architecture](https://img.shields.io/badge/FRONTEND-Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Dynamix Architecture](https://img.shields.io/badge/BACKEND-Rust_Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dynamix Architecture](https://img.shields.io/badge/AI/ML-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Dynamix Architecture](https://img.shields.io/badge/INFRA-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Dynamix Architecture](https://img.shields.io/badge/DEVOPS-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Dynamix Architecture](https://img.shields.io/badge/MONITORING-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🖥️ FRONTEND
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ BACKEND
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=&logoColor=white)
+![SQLx](https://img.shields.io/badge/SQLx-000000?style=for-the-badge&logo=&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI/ML
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-308256?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Stores-000000?style=for-the-badge&logo=&logoColor=white)
+![Agents](https://img.shields.io/badge/Agent_Frameworks-000000?style=for-the-badge&logo=&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### ☁️ INFRA
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 DEVOPS
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 MONITORING
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Structured Logs](https://img.shields.io/badge/Structured_Logs-000000?style=for-the-badge&logo=&logoColor=white)
+![Alerting](https://img.shields.io/badge/Alerting-000000?style=for-the-badge&logo=&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -672,16 +729,19 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "BUILD FAST. SHIP FASTER. SCALE EVERYTHING.                   ║
-║    AI-POWERED. PRODUCTION-GRADE. OPEN SOURCE."                  ║
-║                                                                  ║
-║   STATUS: OPERATIONAL    NODES: 95+ REPOS    UPTIME: 99.99%     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![Build Fast](https://img.shields.io/badge/BUILD_FAST-FF6F00?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+![Ship Faster](https://img.shields.io/badge/SHIP_FASTER-FF4081?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+![Scale Everything](https://img.shields.io/badge/SCALE_EVERYTHING-00E5FF?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+
+![AI-Powered](https://img.shields.io/badge/AI--POWERED-7C4DFF?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+![Production-Grade](https://img.shields.io/badge/PRODUCTION--GRADE-00E676?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+![Open Source](https://img.shields.io/badge/OPEN--SOURCE-00FF41?style=for-the-badge&labelColor=0D1117&cacheSeconds=3600)
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=flat-square&labelColor=0D1117)
+![Nodes](https://img.shields.io/badge/NODES-95%2B-00FF41?style=flat-square&labelColor=0D1117)
+![Uptime](https://img.shields.io/badge/UPTIME-99.99%25-00FF41?style=flat-square&labelColor=0D1117)
 
 </div>
 
