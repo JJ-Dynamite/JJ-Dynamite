@@ -1,3 +1,204 @@
+<style>
+  :root {
+    /* Color System - Matrix Theme */
+    --color-primary: #00FF41;
+    --color-secondary: #0D1117;
+    --color-accent: #FF6F00;
+    --color-text: #C9D1D9;
+    --color-text-muted: #8B949E;
+    --color-success: #00FF41;
+    --color-warning: #FFD93D;
+    --color-error: #FF4081;
+    --color-info: #00E5FF;
+    
+    /* Typography */
+    --font-display: 'JetBrains Mono', 'Fira Code', monospace;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+    
+    /* Spacing Scale */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+    --space-2xl: 48px;
+    
+    /* Border Radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.5);
+    --shadow-glow: 0 0 20px rgba(0, 255, 65, 0.3);
+    
+    /* Transitions */
+    --transition-fast: 150ms ease;
+    --transition-normal: 300ms ease;
+    --transition-slow: 500ms ease;
+  }
+  
+  /* Global Styles */
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: var(--font-body);
+    line-height: 1.6;
+    color: var(--color-text);
+    background: var(--color-secondary);
+  }
+  
+  /* Animation Keyframes */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes slideInLeft {
+    from { opacity: 0; transform: translateX(-20px); }
+    to { opacity: 1; transform: translateX(0); }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+  
+  @keyframes glow {
+    0%, 100% { box-shadow: 0 0 5px var(--color-primary); }
+    50% { box-shadow: 0 0 20px var(--color-primary), 0 0 30px var(--color-primary); }
+  }
+  
+  @keyframes typewriter {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  /* Utility Classes */
+  .fade-in {
+    animation: fadeIn 0.6s ease-out forwards;
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft 0.6s ease-out forwards;
+  }
+  
+  .pulse {
+    animation: pulse 2s infinite;
+  }
+  
+  .glow {
+    animation: glow 2s infinite;
+  }
+  
+  /* Responsive Breakpoints */
+  @media (max-width: 768px) {
+    :root {
+      --space-xl: 24px;
+      --space-2xl: 32px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    :root {
+      --space-lg: 16px;
+      --space-xl: 20px;
+      --space-2xl: 24px;
+    }
+  }
+  
+  /* Hover Effects for Badges */
+  img[src*="shields.io"] {
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  }
+  
+  img[src*="shields.io"]:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-glow);
+  }
+  
+  /* Section Hover Effects */
+  table {
+    transition: transform var(--transition-normal);
+  }
+  
+  table:hover {
+    transform: translateY(-2px);
+  }
+  
+  /* Link Hover Effects */
+  a {
+    transition: color var(--transition-fast), text-decoration-color var(--transition-fast);
+  }
+  
+  a:hover {
+    color: var(--color-primary) !important;
+  }
+  
+  /* Stats Card Hover */
+  .stats-card {
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+  }
+  
+  .stats-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+  }
+  
+  /* Responsive Images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Mobile-First Table Design */
+  @media (max-width: 768px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    
+    td {
+      display: inline-block;
+      vertical-align: top;
+      min-width: 200px;
+    }
+  }
+  
+  /* Typography Improvements */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    letter-spacing: 0.5px;
+  }
+  
+  /* Code Block Styling */
+  code {
+    font-family: var(--font-mono);
+    background: rgba(0, 255, 65, 0.1);
+    padding: 2px 6px;
+    border-radius: var(--radius-sm);
+    color: var(--color-primary);
+  }
+  
+  /* Blockquote Styling */
+  blockquote {
+    border-left: 4px solid var(--color-primary);
+    padding-left: var(--space-md);
+    margin: var(--space-md) 0;
+    font-style: italic;
+    color: var(--color-text-muted);
+  }
+</style>
 
 <div align="center">
 
@@ -15,7 +216,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=FOUNDER+%26+CTO+AT+VAL-X;FULL-STACK+ENGINEER;AI+%26+SYSTEMS+ARCHITECT;15%2B+YEARS+OF+CODE;257%2B+PROJECTS+SHIPPED&theme=matrix&layout=terminal&color=00FF41&background=0D1117&size=18&width=600&height=120&duration=3000&pause=1000&center=true&repeat=true)](https://github.com/JJ-Dynamite)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=FOUNDER+%26+CTO+AT+VAL-X;SELF-TAUGHT+COMPUTER+SCIENTIST;AI+%26+SYSTEMS+ARCHITECT;15%2B+YEARS+OF+CODE;257%2B+PROJECTS+SHIPPED&theme=matrix&layout=terminal&color=00FF41&background=0D1117&size=18&width=600&height=120&duration=3000&pause=1000&center=true&repeat=true&font=VT323)](https://github.com/JJ-Dynamite)
 
 </div>
 
@@ -43,6 +244,32 @@
 </div>
 
 <br/>
+
+---
+
+## 🎨 BRAND IDENTITY
+
+<div align="center">
+
+![Design System](https://img.shields.io/badge/DESIGN_SYSTEM-MATRIX_THEME-00FF41?style=for-the-badge&labelColor=0D1117)
+![Typography](https://img.shields.io/badge/TYPOGRAPHY-JETBRAINS_MONO-00FF41?style=for-the-badge&labelColor=0D1117)
+![Color_Palette](https://img.shields.io/badge/COLOR_PALETTE-GREEN_ACCENT-00FF41?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+> **Design Philosophy**: A cohesive visual identity inspired by the Matrix aesthetic, combining technical precision with modern design principles. The color system uses green accents on dark backgrounds to create a high-contrast, developer-friendly experience.
+
+**Color Palette:**
+- **Primary**: `#00FF41` (Matrix Green) - Success, active states, primary actions
+- **Secondary**: `#0D1117` (Dark Background) - Main background, depth
+- **Accent**: `#FF6F00` (Orange) - Highlights, warnings, emphasis
+- **Text**: `#C9D1D9` (Light Gray) - Primary text, readability
+- **Info**: `#00E5FF` (Cyan) - Information, links, secondary actions
+
+**Typography:**
+- **Display**: JetBrains Mono - Headings, code, technical content
+- **Body**: Inter - Paragraphs, descriptions, general text
+- **Mono**: Fira Code - Code blocks, technical specifications
 
 ---
 
@@ -698,13 +925,47 @@
 
 ---
 
+## 📊 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+### 📅 Contribution Heatmap
+![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=JJ-Dynamite&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY)
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📈 This Week
+![This Week](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&hide_rank=true&custom_title=This+Week)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 This Month
+![This Month](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&hide_rank=true&custom_title=This+Month)
+
+</td>
+<td align="center" width="33%">
+
+### 📆 This Year
+![This Year](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&hide_rank=true&custom_title=This+Year)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📈 GITHUB ANALYTICS (2026 Tools)
 
 <div align="center">
 
 ### 📊 Stats Dashboard
 
-![Stats Dashboard](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true)
+![Stats Dashboard](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&hide_rank=false)
 
 </div>
 
@@ -737,13 +998,13 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJ-Dynamite&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY)
 
 ### 🏆 Achievement System
-![Achievements](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&hide_title=false&hide_rank=false&custom_title=Achievement+Dashboard)
+![Achievements](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&hide_title=false&hide_rank=true&custom_title=Achievement+Dashboard&disable_animations=false)
 
 ### 🔥 Contribution Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJ-Dynamite&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 ### 🐍 Contribution Snake Animation
-![Snake Animation](https://raw.githubusercontent.com/JJ-Dynamite/JJ-Dynamite/output/github-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/JJ-Dynamite/JJ-Dynamite/output/github-snake.svg)
 
 </div>
 
@@ -831,7 +1092,7 @@
 [![Amazon Music](https://img.shields.io/badge/Amazon_Music-00A8E1?style=for-the-badge&logo=amazonmusic&logoColor=white)](https://music.amazon.com/artist/your-amazon-music-id)
 [![iTunes](https://img.shields.io/badge/iTunes-FC3C44?style=for-the-badge&logo=itunes&logoColor=white)](https://itunes.apple.com/artist/your-itunes-id)
 [![Pandora](https://img.shields.io/badge/Pandora-3668FF?style=for-the-badge&logo=pandora&logoColor=white)](https://pandora.com/artist/your-pandora-id)
-[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo= tidal&logoColor=white)](https://tidal.com/browse/artist/your-tidal-id)
+[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://tidal.com/browse/artist/your-tidal-id)
 [![Deezer](https://img.shields.io/badge/Deezer-A237F4?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/artist/your-deezer-id)
 
 </div>
