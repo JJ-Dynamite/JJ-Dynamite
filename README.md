@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=JJ-DYNAMITE&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=DYNAMIX+MATRIX+v3.0+%7C+FULL-STACK+%7C+AI+%7C+SYSTEMS&descSize=18&descAlignY=55&animation=fadeIn&repo=JJ-Dynamite/JJ-Dynamite)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=JOEL+J+MATHEW&fontSize=80&fontColor=00FF41&fontAlignY=35&desc=FULL-STACK+ENGINEER+%7C+CTO+%7C+FOUNDER&descSize=18&descAlignY=55&animation=fadeIn&repo=JJ-Dynamite/JJ-Dynamite)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=FULL-STACK+ENGINEER;AI+SYSTEMS+ARCHITECT;OPEN+SOURCE+CONTRIBUTOR;BUILDING+FAANG-GRADE+SYSTEMS&theme=matrix&layout=terminal&color=00FF41&background=0D1117&size=18&width=600&height=100&duration=3000&pause=1000&center=true&repeat=true)](https://github.com/JJ-Dynamite)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=FOUNDER+%26+CTO+AT+VAL-X;FULL-STACK+ENGINEER;AI+%26+SYSTEMS+ARCHITECT;15%2B+YEARS+OF+CODE;257%2B+PROJECTS+SHIPPED&theme=matrix&layout=terminal&color=00FF41&background=0D1117&size=18&width=600&height=120&duration=3000&pause=1000&center=true&repeat=true)](https://github.com/JJ-Dynamite)
 
 </div>
 
@@ -46,29 +46,29 @@
 
 ---
 
-## 🧬 DYNAMIX PROFILE MATRIX
+## 🧬 PROFILE MATRIX
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👤 AGENT IDENTIFIER
+### 👤 ABOUT ME
 - **Name:** Joel J Mathew
-- **Codename:** JJ-Dynamite
-- **Role:** Full-Stack Engineer + AI Systems Architect
+- **GitHub:** JJ-Dynamite
+- **Role:** Founder & CTO at Val-X
 - **Location:** India
-- **Status:** Active & Shipping
-- **Clearance:** Level 5 - Open Source Contributor
+- **Experience:** 15+ Years
+- **Projects:** 257+ Shipped
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 CORE MISSION
-- Building FAANG-grade production systems
-- AI-first development methodology
-- 95+ open source repositories deployed
-- Rust + Next.js stack specialization
-- Cross-platform architecture expert
+### 🎯 WHAT I DO
+- Building Startup Accelerators (8+ Ventures)
+- Full-Stack Engineering (React, Rust, Node.js)
+- AI Integration & Systems Architecture
+- Web3 / Blockchain / dApp Development
+- Technical Leadership & Product Strategy
 
 </td>
 </tr>
@@ -76,7 +76,7 @@
 
 ---
 
-## ⚡ DYNAMIX TECH MATRIX (200+ TOOLS)
+## ⚡ TECH MATRIX (200+ TOOLS)
 
 ### 🔧 PROGRAMMING LANGUAGES (40+)
 
@@ -532,7 +532,7 @@
 
 ---
 
-## 📊 DYNAMIX SKILL MATRIX
+## 📊 SKILL MATRIX
 
 <table>
 <tr>
@@ -867,7 +867,7 @@
 
 ---
 
-## 📬 CONNECT WITH DYNAMIX
+## 📬 CONNECT WITH ME
 
 <div align="center">
 
@@ -883,10 +883,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=JJ-Dynamite&color=00FF41&label=DYNAMIX+VISITS&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=JJ-Dynamite&color=00FF41&label=PROFILE+VIEWS&style=plastic)
 
 ```
-⚡ DYNAMIX MATRIX v3.0 | ALL SYSTEMS OPERATIONAL ⚡
+⚡ JOEL J MATHEW | FULL-STACK ENGINEER | CTO | FOUNDER ⚡
 ```
 
 </div>
