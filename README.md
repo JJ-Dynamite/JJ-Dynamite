@@ -1,75 +1,347 @@
 
 <h1 align="center">
 <a href='https://bit.ly/44BnGPo'>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joel+J+Mathew....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=DYNAMIX+MATRIX+ACTIVATED...;JOEL+J+MATHEW...;FULL-STACK+%7C+AI+%7C+SYSTEMS+ENGINEER&center=true&size=25&color=00FF41&duration=3000&vCenter=true">
 </a>
 </h1>
+
 <a href="https://bit.ly/44BnGPo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./dino.gif" />
-    <img alt="[joel](https://bit.ly/44BnGPo)" src="./dino.gif" />
+    <img alt="[joel](https://bit.ly/44BnGPo)" src="./dino.gif" width="150" />
   </picture>
 </a>
 
+<br/>
 
-<!--
-**joelmulammoottil994/joelmulammoottil994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/JJ-Dynamite?label=Followers&style=social)](https://github.com/JJ-Dynamite?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/JJ-Dynamite?style=social)](https://github.com/JJ-Dynamite?tab=stars)
+[![Profile views](https://komarev.com/ghpvc/?username=JJ-Dynamite&color=00FF41&label=PROFILE+VIEWS&style=plastic)](https://github.com/JJ-Dynamite)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](https://github.com/JJ-Dynamite)
+[![Open Source](https://img.shields.io/badge/Open-Source-%F0%9F%94%A5-00FF41?style=flat-square)](https://github.com/JJ-Dynamite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">A passionate Cross-platform form developer from India</h3>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/joel-j-mathew-71393a210/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/MalayalamMtn" title="twitter Profile"><img width="22"        src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/_jo_mulammoodan_/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"> Instagram</a></code>
-</h5>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://adobexdplatform.com/static/media/Plugin-APIs.48c61276.svg" alt="xd" width="40" height="40"/> </a> <a href="https://bun.sh/" target="_blank" rel="noreferrer"> <img src="https://bun.sh/logo_avatar.svg" alt="Bun.sh" width="40" height="40"/> </a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://bonderconnect.grafana.net/public/img/grafana_icon.svg" alt="grafana" width="40" height="40"/> </a>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=jasonviipers.jasonviipers)
-
-<br />
-<!-- [Joel J Mathew](https://joelmulammoottil994.github.io/Portfolio/), -->
-I am an enthusiastic and self-taught Full-Stack Software Engineer from India, specializing in blockchain, Web3, and DApp development using React Native. My dedication to software development stems from my ability to envision innovative ideas and transform them into reality through elegant interfaces. I prioritize delivering exceptional user experiences, robust architecture, and high-quality code in all my projects. Additionally, I actively contribute to the open-source community, both as an enthusiast and a maintainer. The collaborative nature and knowledge sharing inherent in open-source development have greatly influenced and enriched my learning journey.
-
-
-  
-- 💼 Looking for freelance opportunities? Feel free to reach out to me at [email](mailto:joelmulammoottil994@gmail.com) :)
-- 💬 Have any questions? I'm here to assist you and provide helpful insights. Feel free to ask me anything!
-
-```text
-
-💬 Programming Languages: 
-TypeScript               23 hrs 58 mins      ████████████████░░░░░░░░░   65.44% 
-JSON                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-JavaScript               2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Java                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-YAML                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-🔥 Editors: 
-VS Code                  36 hrs 17 mins      ████████████████████████░   99.06% 
-Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-
-💻 Operating System: 
-Mac OS                   36 hrs 37 mins      █████████████████████████   100.0%
+<div align="center">
 
 ```
+╔══════════════════════════════════════════════════════════════╗
+║  DYNAMIX MATRIX v3.0 | FULL-STACK x AI x SYSTEMS          ║
+║  STATUS: OPERATIONAL | UPTIME: 99.99% | NODES: 95+ REPOS  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+## 🧬 DYNAMIX PROFILE MATRIX
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 AGENT IDENTIFIER
+- **Name:** Joel J Mathew
+- **Codename:** JJ-Dynamite
+- **Role:** Full-Stack Engineer + AI Systems Architect
+- **Location:** India
+- **Status:** Active & Shipping
+- **Clearance:** Level 5 - Open Source Contributor
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 CORE MISSION
+- Building FAANG-grade production systems
+- AI-first development methodology
+- 95+ open source repositories deployed
+- Rust + Next.js stack specialization
+- Cross-platform architecture expert
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ DYNAMIX TECH MATRIX
+
+### 🔧 CORE STACKS (Aligned Grid)
+
+<table>
+<tr>
+<td align="center" width="20%">
+<code>languages</code><br/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+</td>
+<td align="center" width="20%">
+<code>frameworks</code><br/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axum/axum-original.svg" alt="Axum" width="40"/></a>
+</td>
+<td align="center" width="20%">
+<code>databases</code><br/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/></a>
+</td>
+<td align="center" width="20%">
+<code>cloud</code><br/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="K8s" width="40"/></a>
+</td>
+<td align="center" width="20%">
+<code>tools</code><br/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/></a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI SKILLS & TOOLS MATRIX
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 AI MODELS & LLMs
+<table>
+<tr><td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Claude-308256?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Llama-7A7DEF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=ai&logoColor=white" alt="Mistral"/></td></tr>
+</table>
+
+</td>
+<td align="center" width="33%">
+
+### 🔬 AI FRAMEWORKS
+<table>
+<tr><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/></td></tr>
+</table>
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ AI TOOLS & MLOPS
+<table>
+<tr><td><img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightandbiases&logoColor=black" alt="W&B"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/DVC-13ADE5?style=for-the-badge&logo=dat Version Control&logoColor=white" alt="DVC"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Hugging%20Face%20Inference-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HF Inference"/></td></tr>
+<tr><td><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 DYNAMIX SKILL MATRIX
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 PRIMARY SKILLS
+| Skill | Level | Projects | Status |
+|-------|-------|----------|--------|
+| TypeScript | ██████████ Expert | 50+ | ✅ Active |
+| Rust (Axum) | █████████░ Advanced | 30+ | ✅ Active |
+| React/Next.js | ██████████ Expert | 50+ | ✅ Active |
+| Node.js | █████████░ Advanced | 40+ | ✅ Active |
+| Python | ████████░░ Proficient | 25+ | ✅ Active |
+| Docker/K8s | ████████░░ Proficient | 20+ | ✅ Active |
+| PostgreSQL | ████████░░ Proficient | 35+ | ✅ Active |
+| AWS/Azure | ███████░░░ Skilled | 15+ | ✅ Active |
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/SPECIALIZATION SKILLS
+| Skill | Level | Projects | Status |
+|-------|-------|----------|--------|
+| LLM Integration | █████████░ Advanced | 15+ | 🚀 Growing |
+| RAG Systems | ████████░░ Proficient | 10+ | 🚀 Growing |
+| AI Agents | ████████░░ Proficient | 12+ | 🚀 Growing |
+| Computer Vision | ███████░░░ Skilled | 8+ | 🚀 Growing |
+| NLP/Text Processing | ████████░░ Proficient | 15+ | ✅ Active |
+| AI Model Training | ███████░░░ Skilled | 5+ | 🚀 Growing |
+| Prompt Engineering | █████████░ Advanced | 20+ | ✅ Active |
+| MLOps | ███████░░░ Skilled | 8+ | 🚀 Growing |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 FAANG-GRADE PROJECTS
+
+<table>
+<tr>
+<td align="center" width="25%">
+<code>production-systems</code><br/>
+<a href="https://github.com/JJ-Dynamite">
+<img src="https://img.shields.io/badge/95%2B-Repos-00FF41?style=for-the-badge&labelColor=0D1117" alt="Repos"/>
+</a>
+</td>
+<td align="center" width="25%">
+<code>tech-stack</code><br/>
+<a href="https://github.com/JJ-Dynamite">
+<img src="https://img.shields.io/badge/Rust-Next.js-000000?style=for-the-badge&labelColor=0D1117" alt="Stack"/>
+</a>
+</td>
+<td align="center" width="25%">
+<code>ai-powered</code><br/>
+<a href="https://github.com/JJ-Dynamite">
+<img src="https://img.shields.io/badge/AI-First-FF6F00?style=for-the-badge&labelColor=0D1117" alt="AI"/>
+</a>
+</td>
+<td align="center" width="25%">
+<code>open-source</code><br/>
+<a href="https://github.com/JJ-Dynamite">
+<img src="https://img.shields.io/badge/PUBLIC-00FF41?style=for-the-badge&labelColor=0D1117" alt="OSS"/>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ ARCHITECTURE OVERVIEW
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    DYNAMIX ARCHITECTURE                      │
+├─────────────────────────────────────────────────────────────┤
+│  FRONTEND        │  BACKEND         │  AI/ML              │
+│  ─────────────   │  ─────────────   │  ─────────────      │
+│  Next.js 14      │  Rust (Axum)     │  OpenAI API         │
+│  TypeScript      │  Tokio Runtime   │  Claude API         │
+│  Tailwind CSS    │  SQLx/Postgres   │  RAG Pipelines      │
+│  React 18        │  JWT Auth        │  Vector Stores      │
+│  shadcn/ui       │  Redis Cache     │  Agent Frameworks   │
+├─────────────────────────────────────────────────────────────┤
+│  INFRA           │  DEVOPS          │  MONITORING         │
+│  ─────────────   │  ─────────────   │  ─────────────      │
+│  Docker          │  GitHub Actions  │  Grafana            │
+│  Kubernetes      │  Makefile        │  Prometheus         │
+│  AWS/Azure       │  CI/CD           │  Structured Logs    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJ-Dynamite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJ-Dynamite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJ-Dynamite&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+## 🎖️ DYNAMIX ACHIEVEMENTS
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=JJ-Dynamite&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+---
+
+## 💡 WHAT I BRING TO THE TABLE
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🎯 PROBLEM SOLVING         │  🤖 AI-FIRST DEVELOPMENT      │
+│  • Systems Design           │  • LLM Integration            │
+│  • Algorithm Optimization   │  • RAG Architecture           │
+│  • Performance Tuning       │  • Agent Development          │
+│  • Debugging at Scale       │  • Prompt Engineering          │
+├─────────────────────────────────────────────────────────────┤
+│  🏗️ ARCHITECTURE            │  🚀 SHIPMENT                  │
+│  • Microservices            │  • CI/CD Pipelines            │
+│  • Event-Driven Systems     │  • Docker/K8s                 │
+│  • Database Design          │  • Monitoring & Observability │
+│  • API Design               │  • Production-Grade Code      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔥 DYNAMIX MOTTO
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "BUILD FAST. SHIP FASTER. SCALE EVERYTHING.                   ║
+║    AI-POWERED. PRODUCTION-GRADE. OPEN SOURCE."                  ║
+║                                                                  ║
+║   STATUS: OPERATIONAL    NODES: 95+ REPOS    UPTIME: 99.99%     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📬 CONNECT WITH DYNAMIX
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-j-mathew-71393a210/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MalayalamMtn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jo_mulammoodan_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelmulammoottil994@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJ-Dynamite)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=JJ-Dynamite&color=00FF41&label=DYNAMIX+VISITS&style=plastic)
+
+```
+⚡ DYNAMIX MATRIX v3.0 | ALL SYSTEMS OPERATIONAL ⚡
+```
+
+</div>
